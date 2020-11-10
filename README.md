@@ -6,13 +6,13 @@ This exercice was made by [**Bérengère Carpentier**](https://github.com/carpen
 
 ## What was asked ? 
 
-We are arriving at the end of **The Field**, which means we've learned new techniques, how to work as an individual but also in teams, using all the knowledge we already had, and that we have acquired through the many exerices made during these past three weeks.  
+We are arriving at the end of :herb: **The Field** :herb:, which means we've learned new techniques, how to work as an individual but also in teams, using all the knowledge we already had, and that we have acquired through the many exerices made during these past three weeks.  
 
 For this exercice, we had to make a list of 10 movies/songs/games/... and repertoriate them into a webpage. 
 
 ## What did we do ?
 
-I chose to list 10 of my favourite movies. Using a framwork of my choice (in this case, [*Bulma*](https://bulma.io/)), I created cards in which I placed the movie poster, what genre it was, a small description and a link to a trailer. 
+I chose to list 10 of my favourite movies:movie_camera:. Using a framwork of my choice (in this case, [*Bulma*](https://bulma.io/)), I created cards in which I placed the movie poster, what genre it was, a small description and a link to a trailer. 
 
 
 ## What did we learn ?
@@ -30,4 +30,8 @@ We learned how to use a framework and incorporate it inside our HTML squeletton,
 * Useful tips and tricks from my team's members :blue_heart:
 
 ## What does it look like ? 
+
+![Preview](./images/screen.jpg)
+
+Here's the [***link***](https://carpentierberengere.github.io/collection/) to see the full version ! 
 
