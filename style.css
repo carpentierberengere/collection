@@ -25,6 +25,7 @@ html{
 
 .fab:hover{
     color: lightseagreen;
+    transition-duration: 1s;
 }
 
 .card:hover{
