@@ -12,7 +12,7 @@ For this exercice, we had to make a list of 10 movies/songs/games/... and repert
 
 ## What did we do ?
 
-I chose to list 10 of my favourite movies:movie_camera:. Using a framwork of my choice (in this case, [*Bulma*](https://bulma.io/)), I created cards in which I placed the movie poster, what genre it was, a small description and a link to a trailer. 
+I chose to list 10 of my favourite movies:movie_camera:. Using a framework of my choice (in this case, [*Bulma*](https://bulma.io/)), I created cards in which I placed the movie poster, what genre it was, a small description and a link to a trailer. 
 
 
 ## What did we learn ?
