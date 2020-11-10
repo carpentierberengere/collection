@@ -1,0 +1,33 @@
+html{
+    background-color: white;
+}
+
+.position{
+    display: flex;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.card{
+    height: 100%;
+}
+
+.card-footer{
+    position: absolute;
+    bottom: 1px;
+    left: 40%;
+}
+
+.content{
+    text-align: justify
+}
+
+.fab:hover{
+    color: lightseagreen;
+}
+
+
+
+
+
+
