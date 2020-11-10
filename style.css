@@ -6,6 +6,7 @@ html{
     display: flex;
     margin-bottom: 30px;
     margin-top: 40px;
+    flex-wrap: wrap;
 }
 
 .card{
@@ -24,6 +25,11 @@ html{
 
 .fab:hover{
     color: lightseagreen;
+}
+
+.card:hover{
+    color: darkblue;
+    transition-duration: 1s;
 }
 
 
