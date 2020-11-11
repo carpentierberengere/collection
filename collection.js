@@ -23,7 +23,7 @@ const collection = [
     { //------------------------------------CHARLIE & THE CHOCOLATE FACTORY------------//
         title: 'Charlie & The Chocolate Factory',
         author: 'Tim Burton',
-        category: ['Fantasy','Children'],
+        category: ['Fantasy','Comedy'],
         link: 'https://www.youtube.com/watch?v=OFVGCUIXJls',
         description: 'Charlie, a young boy from an impoverished family, and four other kids win a tour of an amazing chocolate factory run by an imaginative chocolatier, Willy Wonka, and his staff of Oompa-Loompas',
     },
