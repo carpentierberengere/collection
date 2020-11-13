@@ -10,6 +10,8 @@ We are arriving at the end of :herb: **The Field** :herb:, which means we've lea
 
 For this exercice, we had to make a list of 10 movies/songs/games/... and repertoriate them into a webpage. 
 
+Later, we were asked to make a search bar to list and search for specific movies/songs/...
+
 ## What did we do ?
 
 I chose to list 10 of my favourite movies:movie_camera:. Using a framework of my choice (in this case, [*Bulma*](https://bulma.io/)), I created cards in which I placed the movie poster, what genre it was, a small description and a link to a trailer. 
@@ -18,6 +20,7 @@ I chose to list 10 of my favourite movies:movie_camera:. Using a framework of my
 ## What did we learn ?
 
 We learned how to use a framework and incorporate it inside our HTML squeletton, and how to link it with a CSS Stylesheet to make it all look perfect. 
+We created an array to list our movies/songs/... and a JavaScript code to be able to search for a specific item by typing a letter or category or genre.
 
 ## What did we use ? 
 
@@ -25,6 +28,7 @@ We learned how to use a framework and incorporate it inside our HTML squeletton,
 * HTML5
 * CSS3
 * [BULMA documentation and helpers](https://bulma.io/documentation/)
+* JavaScript
 * Card Property
 * Column Property
 * Useful tips and tricks from my team's members :blue_heart:
