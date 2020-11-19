@@ -35,7 +35,7 @@ We created an array to list our movies/songs/... and a JavaScript code to be abl
 
 ## What does it look like ? 
 
-![Preview](./images/screen.jpg)
+![Preview](./images/screen.png)
 
 Here's the [***link***](https://carpentierberengere.github.io/collection/) to see the full version ! 
 
