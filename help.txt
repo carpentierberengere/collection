@@ -1,0 +1,65 @@
+<button class="darkModeSwitch" id="switch">
+                        <span><i class="fas fa-sun"></i></span>   
+                        <span><i class="fas fa-moon"></i></span>
+                    </button>
+
+
+const switchButton = document.getElementById('switch');
+ 
+switchButton.addEventListener('click', () => {
+    document.body.classList.toggle('dark'); //toggle the HTML body the class 'dark'
+    switchButton.classList.toggle('active');//toggle the HTML button with the id='switch' with the class 'active'
+});
+
+
+darkModeSwitch{
+    background: black;
+    color: white;
+    display:flex;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    border-radius: 1rem;
+    margin-left: 20px;
+}
+.darkModeSwitch span{
+    width:30px;
+    height:30px;
+    line-height:30px;
+    display:block;
+    color:#fff;
+    background: none;
+}
+.darkModeSwitch::after{
+    display:block;
+    background: #fffbf5;
+    width: 2.4rem;
+    height: 2.4rem;
+    position: absolute;
+    top:0;
+    left:0;
+    right:unset;
+    border-radius: 3rem;
+    transition: all .5s ease;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, .5);
+    content: "";
+}
+.darkModeSwitch.active{
+    background: #e2e1df;
+  }
+.darkModeSwitch.active::after{
+    left:unset;
+    right:0;
+  }
+  body {
+    background: whitesmoke;
+    
+  }
+  body.dark{
+    background-color: black;
+    
+  }
+body.dark.h1.title  {
+    color: white;
+}
