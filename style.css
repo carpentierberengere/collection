@@ -1,41 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Limelight&family=Playfair+Display&family=Source+Serif+Pro:wght@300&display=swap');
+
 html{
-    background-color: whitesmoke;
+    background-color:  antiquewhite ;
     
 }
 
 body{
-    font-family:'Shrikhand', cursive;
+    font-family: 'Source Serif Pro', serif;
 }
 
-.position{
+
+.is-size-2{
+    font-weight:900;
+}
+
+.is-4{
+    font-weight:600;
+}
+
+
+
+header  {
+    font-family: 'Limelight', cursive; 
+}
+
+.titlesHeader {
     display: flex;
-    margin-bottom: 30px;
-    margin-top: 40px;
-    flex-wrap: wrap;
+    margin-top: -5%;
+    margin-left: -2%;
+    }
+
+h1, h2  {
+        margin-left: 5%;
+        margin-right: -9%;
 }
 
-.card{
-    height: 100%;
+
+h2 {
+    color: rgba(231,182,136,1);  
 }
 
-.card-footer{
+
+.columns{
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
+
+.title  {
+    font-family: 'Playfair Display', serif; 
+} 
+
+.card-content {
+  height: 310px;
+} 
+
+p.title.is-4  {
+    color: black;
+    font-size: 23px ;
+}
+
+.subtitle.is-6  {
+    font-size: 18px;
+    font-family: '';
+    color: green;
+}
+
+.card:hover {
+    transform: scale(1.04);
+}
+
+.linkTrailer{
     position: absolute;
-    bottom: 1px;
-    left: 40%;
-}
-
-.content{
-    text-align: justify
-}
-
-.fab:hover{
-    color: lightseagreen;
-    transition-duration: 1s;
-}
-
-.card:hover{
-    color: darkblue;
-    transition-duration: 1s;
+    bottom: 2px;
 }
 
 
